@@ -1,6 +1,8 @@
 
 # Fish_lambda_theme
 
+Shell Theme for MacOS And Linux
+
 ## Installation Linux
 
 Install Fish 
@@ -48,7 +50,7 @@ Sets the theme
 omf theme Fish_lambda_theme
 ```
 
-## Installation Macos
+## Installation MacOS
 
 Install Homebrew
 ```shell
@@ -104,3 +106,20 @@ Sets the theme
 ```shell
 omf theme Fish_lambda_theme
 ```
+  
+
+## Notes
+
+`nvm` does not like to work with fish to install node 
+
+```shell
+brew  install  node  latest
+```
+
+**links**
+[Homebrew](https://brew.sh/)
+[Homebrew Git](https://formulae.brew.sh/formula/git#default)
+[Homebrew Fish](https://formulae.brew.sh/formula/fish#default)
+[GitHub Fish](https://github.com/fish-shell/fish-shell)
+[GitHub Oh My Fish](https://github.com/oh-my-fish/oh-my-fish)
+[GitHub](https://github.com/Crypticiores/Fish_lambda_theme)
