@@ -50,6 +50,7 @@ omf theme Fish_lambda_theme
 
 ## Installation Macos
 
+Install Homebrew
 ```shell
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
